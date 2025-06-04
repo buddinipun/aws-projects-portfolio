@@ -8,6 +8,6 @@
 - 🧰 **Tech Stack**: React, Vite, AWS Amplify, GitHub
 - 🔐 **Focus**: Hosting static web apps, AWS IAM Identity Center (SSO), Amplify GitHub integration
 
-📄 [Deployment Guide](https://github.com/buddinipun/aws-staticwebsite-host/main/README.md)
+📄 [Deployment Guide](https://github.com/buddinipun/aws-staticwebsite-host/blob/main/README.md)
 
 
